@@ -21,17 +21,6 @@ This massive vessel speaks to the thriving economy of the Greek Hellenistic econ
 After closer inspection Valerios Stais identified the mechanism as a geared device. This discovery was the beginning of a century-long unraveling of our understanding of the historical progression of technology. 
 
 
-## The World Wikipedia Disrupted
-
-{% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
-
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
-
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
-
-{% endcapture %}
-
 {% include images/figure-wrap.html
   image-path="images/books-britannica.jpeg"
   image-position="right"
