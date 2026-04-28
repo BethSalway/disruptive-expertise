@@ -1,8 +1,8 @@
 ---
 title: "The Antikythera Mechanism & What We Think We Know"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: images/fragment-a.PNG
+thumbnail: images/fragment-a.PNG
 summary: In 1901 a shipwreck was discovered off the coast of Antikythera inside they found a treasure trove of greek artifacts, statues and trade goods, but no one would have guessed their most important find would be a bunch of indistinct copper pieces.
 header-title: The Discovery
 header-subtitle: Sponge Diving
@@ -22,7 +22,7 @@ After closer inspection Valerios Stais identified the mechanism as a geared devi
 
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/fragment-a.PNG"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
