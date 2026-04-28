@@ -5,7 +5,7 @@ header-image: images/fragment-a.PNG
 thumbnail: images/fragment-a.PNG
 summary: In 1901 a shipwreck was discovered off the coast of Antikythera inside they found a treasure trove of greek artifacts, statues and trade goods, but no one would have guessed their most important find would be a bunch of indistinct copper pieces.
 header-title: The Discovery
-header-subtitle: Sponge Diving
+header-subtitle: How Sponge Diving Changed History
 header-position: center
 ---
 
