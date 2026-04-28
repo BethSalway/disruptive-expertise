@@ -44,15 +44,14 @@ However, this was not universally accepted at the time of discovery. Many schola
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
-  box-content="
+  box-content=""
+  %}
+  
 ## Cicero, a Primary Source
 
 One such example of complex machinery within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE. 
 
 The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Archimedes" in modeling the revolutions of the firmament. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition.
-
-"
-%}
 
 
 ## The Historical Disruption
@@ -108,13 +107,13 @@ Paragraph here
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
-  box-content="
+  box-content=""
+  %}
+  
 ## Ongoing Disruption 
 Despite being over a century since its discovery, the mechanism remains a dynamic subject of research. The "Phase 3" climax was reached in 2006 with the publication by Freeth et al. in Nature.  This team used advanced X-ray tomography to settle the gearing system, confirming the 223-month Saros cycle on the back dials for eclipse prediction. However, the 2008 publication of newly revealed inscriptions  proves that the device is still being "read," continuously offering new data on the Greek calendars and the socio-political context of its use.
 The mechanical peak of this phase was the confirmation of the "pin-and-slot" coupling. This represents the earliest known occurrence of a slider-crank mechanism in history. By using a pin on one gear to drive a slot on another slightly offset gear, the Greeks introduced a "sinusoidal wave" into the gear train’s velocity ratio. This elegantly modeled the Moon's non-uniform velocity—the way it appears to speed up and slow down in its orbit.
 Crucially, this device was not a lonely miracle. The source context establishes a continuity of tradition that flowed from the Antikythera mechanism into the Byzantine and Islamic worlds. The Byzantine portable sundial (4th–7th century CE) and the work of al-Biruni in his Book on the Full Comprehensiveness of the Possible Methods for Constructing the Astrolabe (c. 1000 CE) prove that this knowledge was preserved. Al-Biruni described geared calendars using similar mathematical ratios, such as the 7/59 ratio to represent the Age of the Moon, effectively linking Hellenistic genius to the Islamic Golden Age
-"
-%}
 
 
 ## Connection to AI
