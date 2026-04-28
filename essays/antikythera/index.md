@@ -1,21 +1,24 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "The Antikythera Mechanism & What We Think We Know"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+summary: In 1901 a shipwreck was discovered off the coast of Antikythera inside they found a treasure trove of greek artifacts, statues and trade goods, but no one would have guessed their most important find would be a bunch of indistinct copper pieces.
+header-title: The Discovery
+header-subtitle: Sponge Diving
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# Introduction 
+The rediscovery of the Antikythera mechanism represents the most profound "disruptive artifact" in the history of science, an object that single-handedly shattered the 20th-century myth of linear technological progress. For decades, the academic consensus maintained a narrative of "Dark Ages" and technical regression, yet this mechanism reveals a peak of Hellenistic engineering that was not surpassed for over a millennium. Its emergence did more than add a footnote to the classical world; it forced a total re-evaluation of the capacity of ancient minds to model the universe through precision machinery.
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
+## The Discovery
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
+In 1900 a party of sponge divers from Syme were taken off course and sought refuge near the island Antikythera. Upon exploring the rock shelves 42 meters deep they discovred a 50 meter shipwreck. 
 
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
+This massive vessel speaks to the thriving economy of the Greek Hellenistic economy. Divers salvaged bronze and marble statues, bringing them up piece by piece. But, it was not until 1902 that the bronze pieces of the Antikythera Mechanism would be given closer attention. 
+
+After closer inspection Valerios Stais identified the mechanism as a geared device. This discovery was the beginning of a century-long unraveling of our understanding of the historical progression of technology. 
 
 
 ## The World Wikipedia Disrupted
@@ -37,20 +40,15 @@ But it was also slow, expensive, and inevitably incomplete. A new edition took y
   text=britannica_text
 %}
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
-
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
-
+Something will go here.
 
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
 
-## Anyone Can Edit
+## Historical Disruption
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+Prior to 1902, the early 20th-century academic consensus viewed the existence of precision gear work in the first century BCE as historically impossible.Scholars primarily treated archeological primary sources referencing accounts of complex machines to be fantastical rather than literal. The Antikythera Mechanism transformed these suspected fictions into verifiable historical fact. 
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
-
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
+However, this was not universally accepted at the time of discovery. Many scholars were unconvinced by the mechanisms placed in history. 
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
@@ -58,35 +56,23 @@ This was not, at the time, considered a serious proposal for producing reliable 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## Cicero, a Primary Source
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+One such example of complex machinery within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE. 
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
+The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Archimedes" in modeling the revolutions of the firmament. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition.
 
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
 %}
 
 
-## The Critics Respond
+## The Historical Disruption
+The device modeled complex astronomical cycles with a precision previously thought to originate in the late Middle Ages. 
+It manifested the Metonic cycle (19 tropical years/235 synodic months) and the even more precise Callippic cycle, a 76-year period consisting of 940 lunations. Used for astronomical dating by figures such as Hipparchus and Ptolemy, the inclusion of these cycles proves that the Greeks had moved beyond mere observation into "mechanical modeling," using fixed gear ratios to simulate the mathematical heartbeat of the cosmos.
 
-The backlash was immediate and, in some quarters, never stopped.
+## Technological Diruption
 
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
-
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
-
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
-
-
-## The Famous Test
-
-In December 2005, the science journal *Nature* published a brief but explosive study.
+The implications of the Antikythera Mechanism extended beyond historical study.  
 
 {% include images/jumbotron.html
   image-path="images/head-to-head.webp"
@@ -95,35 +81,22 @@ In December 2005, the science journal *Nature* published a brief but explosive s
   box-align="left"
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 %}
-
-The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
-
-Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
-
-His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
+The study of the mechanism’s gear system has been defined by a fierce "Battle of Reconstructions," illustrating the struggle of modern academics to reconcile the artifact's sophistication with their own entrenched frameworks.
 
 
-## What Critics Got Right
+## Eras of Reconstruction
 
-Wikipedia's success did not resolve the question of reliability—it complicated it.
+Phase 1: The Price Reconstruction (1974): Derek de Solla Price of Yale University popularized the device as an "Ancient Greek Computer" [11]. Utilizing gamma-radiographs prepared by Charalambos Karakalos, Price proposed a definitive model in 1974. His most celebrated—and ultimately most controversial—theory was the inclusion of a "differential gear" system to calculate the synodic month. While conceptually sophisticated, the differential gear’s presence in 80 BCE stunned the scientific community as it suggested an engineering leap of over 1,500 years.
 
-Research published throughout the 2000s and 2010s documented systematic problems. The "gender gap" was perhaps most striking: studies consistently found that fewer than fifteen percent of Wikipedia's editors were women, and that articles on topics associated with women and women's interests were systematically shorter, less sourced, and more likely to be flagged for deletion. Minority communities, non-Western knowledge traditions, and contested scientific topics faced similar structural underrepresentation.
-
-Clay Shirky, in *Here Comes Everybody* (2008), celebrated Wikipedia as proof that "organizing without organizations" could solve problems that traditional institutions couldn't. But the scholars who studied Wikipedia's actual editing communities found something more complicated: a self-selected group of predominantly white, Western, technically literate, male editors who imported their own assumptions about what counted as "notable" and "verifiable" just as surely as the Britannica's credentialed experts had.
-
-The crowd, it turned out, was not neutral. It was a crowd.
-
-Steven Shapin's *A Social History of Truth* (1994) helps illuminate why this should not have been surprising. Shapin showed that even in seventeenth-century scientific communities, what counted as reliable knowledge was never purely a matter of evidence—it depended on who was speaking, what social position they occupied, and who trusted them. Wikipedia changed the *form* of those social negotiations without eliminating them. The question of whose knowledge counted was still being answered, just by different mechanisms: edit wars, administrator decisions, notability debates, and the informal hierarchies of a volunteer community.
+Phase 2: The Wright Refutation (2003–2005): Michael Wright later utilized a "home-built tomograph" to produce over 700 X-ray images of the fragments [18-22]. Wright proved that Price’s differential gear was a fabrication of the model rather than the artifact. He discovered that the problem could be solved more simply using fixed-axle gears and identified a far more elegant solution: the "pin-and-slot" mechanism.
 
 
-## What Actually Happened
+## Issues Within Study
 
 {% capture aftermath_text %}
 By the time critics had fully articulated their concerns, Wikipedia had already transformed the information landscape.
 
-The *Encyclopaedia Britannica* published its final print edition in 2012 after 244 years. The market for expensive, multi-volume reference works had simply collapsed. Britannica pivoted to digital subscription services, but it was adapting to a world Wikipedia had already remade.
-
-Wikipedia itself was not static. Its reliability improved substantially over the years as the community developed more sophisticated quality-control mechanisms. Scholars like Joseph Reagle, in *Good Faith Collaboration* (2010), documented how Wikipedia had developed a complex culture of norms, arbitration processes, and editorial standards—different in form from traditional peer review, but not entirely unlike it in function.
+Sharp critiques of Price’s methodology conclude his work a classic example of "theoretical bias" overriding empirical data. The source context reveals that Price chose to "overrule Karakalos’ observations" regarding tooth counts to force his mathematical model to work. Where Karakalos counted 54 or 55 teeth on gear-wheel G2, Price insisted it was 60.  Similarly, on wheel F1, Karakalos counted 54 teeth while Price recorded 48. Price sought a 1/1 gear ratio that didn't exist in the physical evidence, leading to a model that was mechanically precarious. Indeed, scholars such as White and Zeeman noted that Price’s system was driven from the "slow-moving end of the train," creating high loads that made modern models difficult to operate.  
 
 {% endcapture %}
 
@@ -135,14 +108,11 @@ Wikipedia itself was not static. Its reliability improved substantially over the
   text=aftermath_text
 %}
 
-The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
+Something here
 
-Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had navigated its own contradictions—open yet governed, egalitarian yet hierarchical, unfinished yet increasingly relied upon by millions. The disruption Wikipedia represented was real. But so was its resilience.
+## The Issue With Linear History
 
-
-## The Deeper Question
-
-What Wikipedia actually disrupted was not just the encyclopedia business. It disrupted a centuries-old assumption about the relationship between *credentials* and *knowledge*—the idea that reliable information requires not just evidence but a certified expert to vouch for it.
+Paragraph here
 
 {% include scrollybox/bg.html
   image-path="images/printing-press.jpg"
@@ -150,70 +120,35 @@ What Wikipedia actually disrupted was not just the encyclopedia business. It dis
   below-box-space="80vh"
   box-align="left"
   box-content="
-## The Credential Problem 
-
-Adrian Johns demonstrated in *The Nature of the Book* (1998) that the authority of printed texts was not inherent—it had to be constructed. Early print culture was chaotic, filled with forgeries, unauthorized editions, and unreliable reproductions. Trust in the printed word emerged slowly, through booksellers' reputations, readers' networks, and institutional endorsements.
-
-Wikipedia compressed that process dramatically, and made it visible. The negotiations over what counted as reliable knowledge—which had always happened, but usually behind institutional walls—now happened in public, in edit histories, on talk pages, in deletion debates.
-
-This is what made Wikipedia historically significant, and what makes it relevant to debates about AI today: it forced the question of *how we know what we know* into plain view. The answer was never simply 'experts said so.' It was always more complicated. Wikipedia just made the complication impossible to ignore.
+## Ongoing Disruption 
+Despite being over a century since its discovery, the mechanism remains a dynamic subject of research. The "Phase 3" climax was reached in 2006 with the publication by Freeth et al. in Nature.  This team used advanced X-ray tomography to settle the gearing system, confirming the 223-month Saros cycle on the back dials for eclipse prediction. However, the 2008 publication of newly revealed inscriptions  proves that the device is still being "read," continuously offering new data on the Greek calendars and the socio-political context of its use.
+The mechanical peak of this phase was the confirmation of the "pin-and-slot" coupling. This represents the earliest known occurrence of a slider-crank mechanism in history. By using a pin on one gear to drive a slot on another slightly offset gear, the Greeks introduced a "sinusoidal wave" into the gear train’s velocity ratio. This elegantly modeled the Moon's non-uniform velocity—the way it appears to speed up and slow down in its orbit.
+Crucially, this device was not a lonely miracle. The source context establishes a continuity of tradition that flowed from the Antikythera mechanism into the Byzantine and Islamic worlds. The Byzantine portable sundial (4th–7th century CE) and the work of al-Biruni in his Book on the Full Comprehensiveness of the Possible Methods for Constructing the Astrolabe (c. 1000 CE) prove that this knowledge was preserved. Al-Biruni described geared calendars using similar mathematical ratios, such as the 7/59 ratio to represent the Age of the Moon, effectively linking Hellenistic genius to the Islamic Golden Age
 "
 %}
-
-Neil Postman warned in *Amusing Ourselves to Death* (1985) that every new medium changes not just what we communicate but how we think about what is worth communicating. Wikipedia changed the medium of reference knowledge—and in doing so, it changed what questions we ask about knowledge itself.
 
 
 ## Connection to AI
 
-The debates about Wikipedia in the 2000s and 2010s sound strikingly familiar to debates about AI today.
+The academic community's struggle to accept the Antikythera Mechanism’s complexity provides a sophisticated parallel to the modern response to Artificial Intelligence. In both cases, experts frequently "stick their heads in the sand" when faced with technology that moves the "possible" into the "actual" before society is ready to categorize it. 
 
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
+Price’s insistence on a flawed model, ignoring Karakalos's tooth counts to preserve his intellectual framework, mirrors contemporary attempts to minimize AI’s impact by forcing it into existing categories of simple automation.
+Price’s "latitude" with G2’s tooth count stands as a historical warning against "algorithmic bias" or the forcing of data to fit a "modern progress" narrative. 
 
-These are the right questions. And the Wikipedia case suggests they don't have clean answers.
+Cicero’s reflection on those who "doubt that the universe is guided by reason" serves as an apt analogy for modern skepticism toward machine intelligence. Just as ancient thinkers struggled to believe a bronze machine could mirror "divine reason," modern thinkers often struggle to acknowledge "rational machines" that emerge outside expected historical trajectories. The psychological barrier to acknowledging high-order intelligence where it is not expected remains a consistent human trait.
 
-What Wikipedia showed is that disruptions to expert authority are not simply liberating or simply dangerous—they are both, and the balance shifts depending on what you're looking for, who you are, and what you already know. A Wikipedia article on a well-documented scientific topic is often genuinely reliable. An article on a contested political event, or a figure from a marginalized community, or a topic outside the dominant culture of its editors, is often not.
+## Conclusion
 
-AI presents the same asymmetry at greater scale and higher speed. Understanding what Wikipedia got right, what it got wrong, and *why*—not as a story of technology, but as a story of social power, epistemic trust, and the politics of knowledge—is essential preparation for navigating what comes next.
+The Antikythera mechanism did not merely add to our knowledge of the past; it disrupted the very timeline of human progress. It stands as a testament to an era where mathematics and mechanical engineering were synthesized into a singular, cohesive vision of the cosmos.
+This narrative of rediscovery was forged by many hands: the Syme sponge divers who braved the depths; Spyridon Staïs, who first saw the gears within the corrosion; Derek de Solla Price, who forced the world to see it as a computer; Michael Wright,  who restored mechanical accuracy through his tomograph; and Tony Freeth, who brought the gear system to its modern climax. As the 2008 inscriptions demonstrate, the Antikythera mechanism is a living document of human ingenuity. It serves as a reminder that the "Gears of Time" do not always turn forward in a straight line, but are often rediscovered, reminding us of the heights our ancestors once achieved.
+The legacy of the Antikythera Mechanism is one of perpetual disruption. It has proven that a sophisticated tradition of representing "heavenly bodies" by means of "gear trains" existed long before it was historically accepted, persisting through Byzantine and Islamic cultures [14]. While the 2006 Nature publication means we now "basically know how the mechanism works" [6], its most potent output remains the disruption it caused to our understanding of human history. It serves as a permanent reminder that our narrative of technological evolution is often a story we tell ourselves, forever vulnerable to the next storm-driven discovery from the depths.
 
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
-
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
-
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
-
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+Explanation will go here.
 
 ---
 
 ## Bibliography
 
-Baker, Nicholson. "The Charms of Wikipedia." *New York Review of Books*, March 20, 2008.
-
-Benkler, Yochai. "Coase's Penguin, or, Linux and 'The Nature of the Firm.'" *Yale Law Journal* 112, no. 3 (2002): 369–446.
-
-Giles, Jim. "Internet Encyclopaedias Go Head to Head." *Nature* 438, no. 7070 (December 2005): 900–901.
-
-Johns, Adrian. *The Nature of the Book: Print and Knowledge in the Making*. Chicago: University of Chicago Press, 1998.
-
-Keen, Andrew. *The Cult of the Amateur: How Today's Internet is Killing Our Culture*. New York: Doubleday, 2007.
-
-Lih, Andrew. *The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia*. New York: Hyperion, 2009.
-
-McHenry, Robert. "The Faith-Based Encyclopedia." *TCS Daily*, November 15, 2004.
-
-Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters*. New York: Oxford University Press, 2017.
-
-Postman, Neil. *Amusing Ourselves to Death: Public Discourse in the Age of Show Business*. New York: Penguin, 1985.
-
-Reagle, Joseph M. *Good Faith Collaboration: The Culture of Wikipedia*. Cambridge: MIT Press, 2010.
-
-Sanger, Larry. "The Early History of Nupedia and Wikipedia: A Memoir." *Slashdot*, April 2005.
-
-Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago: University of Chicago Press, 1994.
-
-Shirky, Clay. *Here Comes Everybody: The Power of Organizing Without Organizations*. New York: Penguin Press, 2008.
-
-Wales, Jimmy. "Wikipedia Is an Encyclopedia." Wikipedia-l mailing list, March 8, 2005.
