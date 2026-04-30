@@ -50,10 +50,6 @@ However, this discovery was not universally accepted at the time. Many scholars 
   box-content=""
   %}
   
-## Cicero, a Primary Source
-
-One such example of complex machinery discussed within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE. 
-The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Archimedes" in modeling the revolutions of the firmament. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition.
 
 
 ## Technological Diruption
@@ -78,10 +74,12 @@ The Price Reconstruction (1974): Derek de Solla Price of Yale University popular
 The Wright Refutation (2003–2005): Michael Wright later utilized a home-built tomograph to produce over 700 X-ray images of the fragments. Wright proved that Price’s differential gear was a fabrication of the model rather than a fact of the artifact. He discovered that the problem could be solved more simply using fixed-axle gears and identified a far more elegant solution. Proposing the Greeks used a pin-and-slot mechanism.
 
 
-## Issues Within Study
+## Cicero, a Primary Source
 
 {% capture aftermath_text %}
-  
+
+One such example of complex machinery discussed within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE. 
+The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Archimedes" in modeling the revolutions of the firmament. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition. 
 
 {% endcapture %}
 
