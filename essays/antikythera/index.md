@@ -96,7 +96,7 @@ The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero d
 The idea that human beings have progressed in a linear fashion does not account for how unreliable our species is. Although many technological advancements have built off one another and progressed from point A to point B there are many aspects of human history that do not. There is so much we don't know, yet we insist on pretending we do. By insisting on one concrete historical narrative we put ourselves in a box that obscures alternative perspectives.
 
 {% include scrollybox/bg.html
-  image-path="images/printing-press.jpg"
+  image-path="images/map.JPG"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
