@@ -43,7 +43,7 @@ However, this discovery was not universally accepted at the time. Many scholars 
  
 
 {% include scrollybox/bg.html
-  image-path="images/cicero.JPG"
+  image-path="images/map.JPG"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
