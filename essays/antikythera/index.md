@@ -28,12 +28,12 @@ After closer inspection Valerios Stais identified the mechanism as a geared devi
   image-path="images/fragment-a.PNG"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="Antikythera Fragment"
   text=britannica_text
 %}
 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+{% include typography/pullquote.html text="\"Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings?" De Natura Deorum, by Cicero" %}
 
 ## Historical Disruption
 
