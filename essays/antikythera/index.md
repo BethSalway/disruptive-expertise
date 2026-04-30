@@ -43,7 +43,7 @@ However, this discovery was not universally accepted at the time. Many scholars 
  
 
 {% include scrollybox/bg.html
-  image-path="images/reconstruction.JPG"
+  image-path="images/cicero.JPG"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
@@ -63,11 +63,11 @@ The implications of the Antikythera Mechanism extended beyond historical study.
 The study of the mechanism’s gear system has been defined by heated debates within the scientific community concerning the reconstruction of the device. Illustrating the struggle of modern academics to reconcile the artifact's sophistication with their own entrenched frameworks.  
 
 {% include images/figure-wrap.html
-  image-path="images/cicero.JPG"
+  image-path="images/reconstruction.JPG"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="Cicero."
+  text="Reconstrution model of the Antikythera orrery"
 %}
 
 
