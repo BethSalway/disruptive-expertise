@@ -81,17 +81,15 @@ The Wright Refutation (2003–2005): Michael Wright later utilized a home-built 
 ## Issues Within Study
 
 {% capture aftermath_text %}
-By the time critics had fully articulated their concerns, Wikipedia had already transformed the information landscape.
-
-Sharp critiques of Price’s methodology conclude that his work is a classic example of "theoretical bias" that overrides empirical data. Revealing that Price chose to overrule Karakalos’ observations regarding the gear tooth counts to force his mathematical model to work. Where Karakalos counted 54 or 55 teeth on gear-wheel G2, Price insisted it was 60. Similarly, on wheel F1, Karakalos counted 54 teeth while Price recorded 48. Price sought a 1 to 1 gear ratio that didn't exist in the physical evidence, leading to an improbable model. This created issues in reconstruction that made modern models difficult to operate.  
+  
 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/wikipedia-growth.PNG"
+  image-path="images/cicero.JPG"
   image-position="left"
   image-width="44%"
-  caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
+  caption="As an interal primary account of an orrery in ancient greece Cicero's De Natura Deorum has helped histroians understand its place in their society and ancient history."
   text=aftermath_text
 %}
 
