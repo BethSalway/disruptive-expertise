@@ -33,7 +33,7 @@ After closer inspection Valerios Stais identified the mechanism as a geared devi
 %}
 
 
-{% include typography/pullquote.html text="\"Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings/" De Natura Deorum, by Cicero" %}
+{% include typography/pullquote.html text="'Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings' De Natura Deorum, by Cicero" %}
 
 ## Historical Disruption
 
