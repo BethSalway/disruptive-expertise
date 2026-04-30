@@ -33,7 +33,7 @@ After closer inspection Valerios Stais identified the mechanism as a geared devi
 %}
 
 
-{% include typography/pullquote.html text="\"Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings?" De Natura Deorum, by Cicero" %}
+{% include typography/pullquote.html text="\"Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings/" De Natura Deorum, by Cicero" %}
 
 ## Historical Disruption
 
@@ -43,7 +43,7 @@ However, this discovery was not universally accepted at the time. Many scholars 
  
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/reconstruction.JPG"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
@@ -62,12 +62,12 @@ The implications of the Antikythera Mechanism extended beyond historical study.
 
 The study of the mechanism’s gear system has been defined by heated debates within the scientific community concerning the reconstruction of the device. Illustrating the struggle of modern academics to reconcile the artifact's sophistication with their own entrenched frameworks.  
 
-{% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+{% include images/figure-wrap.html
+  image-path="images/cicero.JPG"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+  text="Cicero."
 %}
 
 
@@ -125,7 +125,7 @@ The academic community's struggle to accept the Antikythera Mechanism’s comple
 
 Price’s insistence on a flawed model, ignoring Karakalos's tooth counts to preserve his intellectual framework, mirrors contemporary attempts to minimize AI’s impact by forcing it into existing categories of simple automation. Price’s work gives us a historical warning against algorithmic bias or the forcing of data to fit a modern progress narrative and reminds us of the dangers of cutting corners in the name of answers.
 
-The primary source De natura deorum II discusses those who “doubt that the universe is guided by reason"  and gives us a parallel to modern skepticism toward machine intelligence. Just as ancient historical actors struggled to believe a bronze machine could mirror divine reason, modern thinkers often struggle to acknowledge machines that emerge outside expected historical trajectories. The psychological barrier to acknowledging something where it is not expected remains a consistent road block to understanding and accepting new truth or possibilities.
+The primary source De natura deorum II discusses those who doubt the way reason guides the universe and gives us a parallel to modern skepticism and doubt about machine intelligence. Just as ancient historical figures struggled to believe a bronze machine could mirror divine reason, modern thinkers often struggle to acknowledge machines that emerge outside expected historical trajectories. The psychological barrier to acknowledging something where it is not expected remains a consistent road block to understanding and accepting new truth or possibilities.
 
 ## Conclusion
 
