@@ -141,6 +141,8 @@ Explanation will go here.
 
 ## Bibliography
 
+Sources:
+
 “Antikythera Mechanism | Antikythera Mechanism.” 2020. The Functional Reconstruction of the Antikythera Mechanism. November 9, 2020. https://antikytheramechanism.pro/?utm_source=chatgpt.com.Antonis. 2025. 
 
 “Antikythera Mechanism Paper in the Journal of Astronomical History and Heritage - the National Herald.” The National Herald. May 13, 2025. https://www.thenationalherald.com/antikythera-mechanism-paper-in-the-journal-of-astronomical-history-and-heritage/.Ashworth, William. 2024. 
