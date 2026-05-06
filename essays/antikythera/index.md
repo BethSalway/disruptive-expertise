@@ -141,3 +141,30 @@ Explanation will go here.
 
 ## Bibliography
 
+“Antikythera Mechanism | Antikythera Mechanism.” 2020. The Functional Reconstruction of the Antikythera Mechanism. November 9, 2020. https://antikytheramechanism.pro/?utm_source=chatgpt.com.Antonis. 2025. 
+
+“Antikythera Mechanism Paper in the Journal of Astronomical History and Heritage - the National Herald.” The National Herald. May 13, 2025. https://www.thenationalherald.com/antikythera-mechanism-paper-in-the-journal-of-astronomical-history-and-heritage/.Ashworth, William. 2024. 
+
+“The Antikythera Mechanism.” The Linda Hall Library. 2024. https://www.lindahall.org/about/news/scientist-of-the-day/the-antikythera-mechanism/.Bruderer, Herbert. 2020. 
+
+“The Antikythera Mechanism.” Communications of the ACM 63 (4): 108–15. https://doi.org/10.1145/3368855.Doble, Rick. 2016. 
+
+“How Preconceptions Interfered with Discovery: Understanding the First Computer, the Antikythera Mechanism of Ancient Greece.” ResearchGate. January 1, 2016. https://doi.org/10.6084/M9.FIGSHARE.3984484.Jones, Alexander. 2020. 
+
+“The Epoch Dates of the Antikythera Mechanism with an Appendix on Its Authenticity.” Nyu.edu. 2020. http://dlib.nyu.edu/awdl/isaw/isaw-papers/17/.———. 2026. “The Antikythera Mechanism and the Public Face of Greek Science.” Nyu.edu. http://hdl.handle.net/2451/49539.Koetsier, Teun. 2009. 
+
+“Phases in the Unraveling of the Secrets of the Gear System of the Antikythera Mechanism.” ResearchGate. January 11, 2009. https://doi.org/10.1007/978-1-4020-9485-9_20.Levy, Leon. 2018. 
+
+“‘Like Opening a Pyramid and Finding an Atomic Bomb’: Derek de Solla Price and the Antikythera Mechanism 1 ALEXANDER JONES.” PROCEEDINGS of the AMERICAN PHILOSOPHICAL SOCIETY 162 (3). https://www.amphilsoc.org/sites/default/files/2019-03/attachments/Jones.pdf.MAA. 2021. 
+
+“How the Ancient Greeks Constructed the World’s First Mechanical Computer – Mathematical Association of America.” Maa.org. April 2021. https://maa.org/math-values/how-the-ancient-greeks-constructed-the-worlds-first-mechanical-computer/.Moussas, Xenophon. 2009. 
+
+“The Antikythera Mechanism: The Oldest Mechanical Universe in Its Scientific Milieu.” Proceedings of the International Astronomical Union 5 (S260): 135–48. https://doi.org/10.1017/s1743921311002225.Popova, Maria. 2012. 
+
+“The Antikythera Mechanism: The Story of Humanity’s Oldest Analog Computer, circa 150 B.C.” The Marginalian. January 12, 2012. https://www.themarginalian.org/2012/01/12/decoding-the-heavens/?utm_source=chatgpt.com.
+
+“The World’s Oldest Computer: The Antikythera Mechanism.” n.d. National Hellenic Museum. https://nationalhellenicmuseum.org/the-worlds-oldest-computer-the-antikythera-mechanism/.Trimmis, Konstantinos P. 2016. 
+
+“The Forgotten Pioneer: Valerios Stais and His Research in Kythera, Antikythera and Thessaly.” Bulletin of the History of Archaeology 26 (1). https://doi.org/10.5334/bha-558.Voulgaris, Aristeidis, Christophoros Mouratidis, Andreas Vossinakis, and Manos Roumeliotis. 2026. 
+
+“Is There Something Missing from the Antikythera Mechanism? Was It a Mechanical Planetarium–Positioner? Or a Luni-Solar Time Calculator Device? Reconstructing the Lost Parts of B1 Gear and Its Cover Disc.” Heritage 9 (3): 95. https://doi.org/10.3390/heritage9030095.
