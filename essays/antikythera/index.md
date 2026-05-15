@@ -10,9 +10,9 @@ header-position: center
 ---
 
 # Introduction 
-One object single-handedly shattered the 20th-century myth of linear technological progress. For decades, the academic consensus maintained that humanities technology followed a linear progression, building off itself and slowly becoming more and more advanced. Then the Antikythera Mechanism was found and the disruption that followed shattered these preconceived notions. The mechanism reveals an understanding of complex gear work within Hellenistic engineering that was not surpassed for over a millennium. Its finding forced a total re-evaluation of the capacity of ancient minds to model the universe through precision machinery.
+One object single-handedly shattered the 20th-century myth of linear technological progress. For decades, the academic community maintained that humanities technology followed a linear progression, building off itself and slowly becoming more and more advanced. Then the Antikythera Mechanism was found and the disruption that followed shattered these preconceived notions. The mechanism reveals an understanding of complex gear work within Hellenistic engineering that was not surpassed for over a millennium. Its finding forced a total re-evaluation of the capacity of ancient minds, tools, and technology to model the universe through precision gear work.
 
-The mechanism manifested the Metonic cycle (19 tropical years/235 synodic months) and the even more precise Callippic cycle, a 76-year period consisting of 940 lunations. Used for astronomical dating by figures such as Hipparchus and Ptolemy, the inclusion of these cycles proves that the Greeks had moved beyond mere observation of the stars. Using fixed gear ratios to simulate mathematical charting of the cosmos.
+The mechanism showcases the Metonic cycle (19 tropical years/235 synodic months) and the even more precise Callippic cycle, a 76-year period consisting of 940 lunations. Used for astronomical dating by figures such as Hipparchus and Ptolemy, the inclusion of these cycles proves that the Greeks had moved beyond mere observation of the stars. Using fixed gear ratios to simulate mathematical charting of the cosmos.
 
 ## The Discovery
 
@@ -33,30 +33,20 @@ After closer inspection Valerios Stais identified the mechanism as a geared devi
 %}
 
 
-{% include typography/pullquote.html text="'Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same otions of the sun, the moon and five planets hat take place in the heavens every twenty-four hundred, would any single nativee doubt that this orrery was the work of rational beings' De Natura Deorum, by Cicero" %}
+{% include typography/pullquote.html text="'Suppose a traveller to carry into Scythia or Britain the orrery recently constucted by our friend Posidonius, which at each revolution reproduces the same motions of the sun, the moon and five planets that take place in the heavens every twenty-four hundred, would any single native doubt that this orrery was the work of rational beings' De Natura Deorum, by Cicero" %}
 
 ## Historical Disruption
 
-Prior to 1902, the early 20th-century academic consensus viewed the existence of precision gear work in the first century BCE as historically impossible. The device modeled complex astronomical cycles with a precision previously thought to originate in the late Middle Ages. Scholars primarily treated archeological primary sources referencing accounts of complex machines in ancient Greece to be fantastical rather than literal. It was assumed that they had been made up to help make philosophical points within text. The Antikythera Mechanism transformed these suspected fictions into verifiable historical fact. 
+Prior to 1902, the early 20th-century academic consensus viewed the existence of precision gear work in the first century BCE as historically impossible. The device modeled complex astronomical cycles with a precision previously thought to originate in the late Middle Ages. Scholars primarily treated archeological primary sources referencing accounts of complex machines in ancient Greece to be fantastical rather than literal. It was assumed that they had been made up to help make philosophical points within text, specifically the text De Natura Deorum. The Antikythera Mechanism transformed these suspected fictions into verifiable historical fact. 
 
 However, this discovery was not universally accepted at the time. Many scholars were unconvinced by the mechanisms place in history. Additionally, many critics did not believe that the gears were functional or even true gear work at all.
- 
-
-{% include scrollybox/bg.html
-  image-path="images/map.JPG"
-  above-box-space="90vh"
-  below-box-space="80vh"
-  box-align="right"
-  box-content=""
-  %}
-  
 
 
 ## Technological Diruption
 
 The implications of the Antikythera Mechanism extended beyond historical study.  
 
-The study of the mechanism’s gear system has been defined by heated debates within the scientific community concerning the reconstruction of the device. Illustrating the struggle of modern academics to reconcile the artifact's sophistication with their own entrenched frameworks.  
+The study of the mechanism’s gear system has been followed by heated debates within the scientific community concerning the reconstruction of the device. Illustrating the struggle of modern academics to reconcile the artifact's sophistication with their own ingrained preconceived frameworks regarding ancient technology.  
 
 {% include images/figure-wrap.html
   image-path="images/reconstruction.JPG"
@@ -69,7 +59,7 @@ The study of the mechanism’s gear system has been defined by heated debates wi
 
 ## Eras of Reconstruction
 
-The Price Reconstruction (1974): Derek de Solla Price of Yale University popularized the device as an "Ancient Greek Computer". Utilizing gamma-radiographs, Price proposed a definitive model of the construction in 1974. His most celebrated, and ultimately most controversial, theory was the inclusion of a differential gear system within the mechanism to calculate the synodic month. While conceptually sophisticated, the differential gear’s presence in 80 BCE stunned the scientific community as it suggested an engineering leap of over 1,500 years.
+The Price Reconstruction (1974): Derek de Solla Price of Yale University popularized the device as an "Ancient Greek Computer". Utilizing gamma-radiographs, Price proposed a definitive model of the construction in 1974. His most celebrated, and ultimately most controversial, theory was the inclusion of a differential gear system within the mechanism to calculate the synodic month. While conceptually sophisticated, the differential gear’s presence in 2nd century BCE stunned the scientific community as it suggested an engineering leap of over 1,500 years. Additionally, in creating this theroy he compleatly ignored the previous studies, in which Karakalos proposed a tooth count for each gear. The largest being 5 inches with 223 teeth in its original condition.
 
 The Wright Refutation (2003–2005): Michael Wright later utilized a home-built tomograph to produce over 700 X-ray images of the fragments. Wright proved that Price’s differential gear was a fabrication of the model rather than a fact of the artifact. He discovered that the problem could be solved more simply using fixed-axle gears and identified a far more elegant solution. Proposing the Greeks used a pin-and-slot mechanism.
 
@@ -78,8 +68,9 @@ The Wright Refutation (2003–2005): Michael Wright later utilized a home-built 
 
 {% capture aftermath_text %}
 
-One such example of complex machinery discussed within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE. 
-The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Archimedes" in modeling the revolutions of the firmament. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition. 
+One such example of complex machinery discussed within Grecian history is De natura deorum II. The second book of Marcus Tullius Cicero’s philosophical treatise written in 45 BCE.
+
+The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero describes an orrery constructed by Posidonius of Apamea, whom he visited on Rhodes between 79 and 77 BCE, which reproduced "the same motions of the Sun, the Moon and the five planets that take place in the heavens every day and night" Cicero further references the "craftsmanship of Posidonius" in modeling the revolutions of the stars. The physical reality of the mechanism proves that these texts were not exaggerations but accurate reports of a sophisticated mechanical tradition. 
 
 {% endcapture %}
 
@@ -93,25 +84,18 @@ The artifact vindicated the accounts of Cicero. In De natura deorum II, Cicero d
 
 ## The Issue With Linear History
 
-The idea that human beings have progressed in a linear fashion does not account for how unreliable our species is. Although many technological advancements have built off one another and progressed from point A to point B there are many aspects of human history that do not. There is so much we don't know, yet we insist on pretending we do. By insisting on one concrete historical narrative we put ourselves in a box that obscures alternative perspectives.
+The idea that human beings have progressed in a linear fashion does not account for how unreliable our species is. Although many technological advancements have built off one another and progressed from point A to point B there are many aspects of human history that do not. There is so much we don't know, yet we insist on pretending we do. By insisting on one concrete historical narrative we put ourselves in a box that obscures alternative perspectives, and if stubbornly adhered to, blinds us to reality.
 
-{% include scrollybox/bg.html
-  image-path="images/map.JPG"
-  above-box-space="80vh"
-  below-box-space="80vh"
-  box-align="left"
-  box-content=""
-  %}
   
 ## Ongoing Disruption 
-Despite being over a century since its discovery, the mechanism remains a dynamic subject of research. A team in 2008 used advanced X-ray tomography to settle the gearing system and confirmed the 223-month Saros cycle on the back dials used for eclipse prediction. However, publication of newly revealed inscriptions proves that the device requires more research attention. It continuously offers new data on the Greek calendars and the socio-political context of its use during the Hellenistic period.
+Despite being over a century since its discovery, the mechanism remains a dynamic subject of research. A team in 2008 used advanced X-ray tomography to settle the gearing system and confirmed the 223-month saros cycle on the back dials used for eclipse prediction. However, publication of revealed inscriptions proves that the device requires more research attention. It continuously offers new data on the Greek calendars and the socio-political context of its use during the Hellenistic period.
 
 The pin-and-slot discovery represents the earliest known occurrence of a slider-crank mechanism in history. By using a pin on one gear to drive a slot on another slightly offset gear, the Greeks introduced a sinusoidal wave into the gear train’s velocity ratio. This elegantly modeled the way the Moon moves in space, as it appears to speed up and slow down in its orbit.
 
-Additionally, there is evidence of a historical tradition that flowed from the Antikythera mechanism into the Byzantine and Islamic worlds. The Byzantine portable sundial (4th–7th century CE) and the work of al-Biruni in his Book on the Full Comprehensiveness of the Possible Methods for Constructing the Astrolabe (c. 1000 CE) prove that this knowledge was preserved. Al-Biruni described geared calendars using similar mathematical ratios, such as the 7/59 ratio to represent the Age of the Moon, effectively linking Hellenistic technologies to the Islamic Golden Age.
+Additionally, there is evidence of a historical tradition that flowed from the Antikythera mechanism in the Greek Hellenistic period into the Byzantine and Islamic worlds. The Byzantine portable sundial (4th–7th century CE) and the work of al-Biruni in his Book on the Full Comprehensiveness of the Possible Methods for Constructing the Astrolabe (c. 1000 CE) prove that this knowledge was preserved. Al-Biruni described geared calendars using similar mathematical ratios, such as the 7/59 ratio to represent the Age of the Moon, effectively linking Hellenistic technologies to the Islamic Golden Age.
 
 
-These examples illustrate the ways in which the mechanism continues to alter our perception of the hellenistic period and ancient technology.
+These examples illustrate the ways in which the mechanism continues to alter our perception of the hellenistic period and ancient technology. The more we learn from the mechanism the more people belive in its validity, but with each discovery the academic community is forced to reevaluate our understanding of the ancient world, and by extension the foundations of our world today. 
 
 
 
@@ -121,7 +105,7 @@ The academic community's struggle to accept the Antikythera Mechanism’s comple
 
 Price’s insistence on a flawed model, ignoring Karakalos's tooth counts to preserve his intellectual framework, mirrors contemporary attempts to minimize AI’s impact by forcing it into existing categories of simple automation. Price’s work gives us a historical warning against algorithmic bias or the forcing of data to fit a modern progress narrative and reminds us of the dangers of cutting corners in the name of answers.
 
-The primary source De natura deorum II discusses those who doubt the way reason guides the universe and gives us a parallel to modern skepticism and doubt about machine intelligence. Just as ancient historical figures struggled to believe a bronze machine could mirror divine reason, modern thinkers often struggle to acknowledge machines that emerge outside expected historical trajectories. The psychological barrier to acknowledging something where it is not expected remains a consistent road block to understanding and accepting new truth or possibilities.
+The primary source De natura deorum II discusses those who doubt the way reason guides the universe and gives us a parallel to modern skepticism and doubt about machine intelligence. Just as ancient historical figures struggled to believe a bronze machine could mirror divine reason, modern thinkers often struggle to acknowledge machines that emerge outside expected historical frameworks. The psychological barrier to acknowledging something where it is not expected remains a consistent road block to understanding and accepting new truth or possibilities.
 
 ## Conclusion
 
@@ -135,7 +119,11 @@ The legacy of the Antikythera Mechanism is one of continuous disruption. It has 
 
 ## How I Used AI for This Essay
 
-Explanation will go here.
+AI was used for the making of this essay in two ways. The first is source gathering, I used ChatGPT to help me find and collect both recent and older academic sources. I also used it to find a relevant primary source, which proved harder than I thought it would be. Because, many primary sources from the discovery of the mechanism are in Greek, which I cannot speak and I was weary of translating them without a way to verify the accuracy of such a translation. 
+
+The second way I used AI was to get a summary of my selected sources or the subject itself. I uploaded each source to NotebookLM and asked the AI system to give me the highlights and any specific information relating to the Antikythera Mechanisms connection to academic debates and disagreements. Then I did the same thing with ChatGPT, minus uploading the sources. And, this time I prompted it to provide me with specific connections to reactions to AI in our modern day society. 
+
+I took both of the generated responses and fact checked them against both one another and the sources I chose. After removing anything I could not corroborate I used what was left as the first draft of this essay. From there I revised and edited, making the essay my own. The word choices, structure, and fact checked information are all my personal work.
 
 ---
 
