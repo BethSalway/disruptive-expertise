@@ -12,7 +12,7 @@ header-position: center
 # Introduction 
 One object single-handedly shattered the 20th-century myth of linear technological progress. For decades, the academic community maintained that humanities technology followed a linear progression, building off itself and slowly becoming more and more advanced. Then the Antikythera Mechanism was found and the disruption that followed shattered these preconceived notions. The mechanism reveals an understanding of complex gear work within Hellenistic engineering that was not surpassed for over a millennium. Its finding forced a total re-evaluation of the capacity of ancient minds, tools, and technology to model the universe through precision gear work.
 
-The mechanism showcases the Metonic cycle (19 tropical years/235 synodic months) and the even more precise Callippic cycle, a 76-year period consisting of 940 lunations. Used for astronomical dating by figures such as Hipparchus and Ptolemy, the inclusion of these cycles proves that the Greeks had moved beyond mere observation of the stars. Using fixed gear ratios to simulate mathematical charting of the cosmos.
+The mechanism showcases the Metonic cycle which includes 19 tropical years and 235 synodic months. And, the even more precise Callippic cycle, a 76-year period consisting of 940 lunations. Used for astronomical dating by figures such as Hipparchus and Ptolemy, the inclusion of these cycles proves that the Greeks had moved beyond mere observation of the stars. Using fixed gear ratios to simulate mathematical charting of the cosmos.
 
 ## The Discovery
 
